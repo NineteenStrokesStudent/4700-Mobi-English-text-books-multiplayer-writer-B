@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3194</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5bd35bc-cd9f-45a4-b161-3641c8e08e53</dc:identifier>
+        <dc:title>The Sweetgum Ladies Knit for Love</dc:title>
+        <dc:creator opf:file-as="Pattillo, Beth" opf:role="aut">Beth Pattillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-02T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+“[Pattillo] creates a sweet story of redemption that will go down well with knitters as well as the knitting-challenged.” — PUBLISHERS WEEKLY“*The Sweetgum Knit Lit Society* cries for a sequel.” — BOOKPAGEOnce a month, the six women of the Sweetgum Knit Lit Society gather to discuss books and share their knitting projects.  Inspired by her recently-wedded bliss, group leader Eugenie chooses “Great Love Stories in Literature” as the theme for the year’s reading list–a risky selection for a group whose members span the spectrum of age and relationship status.As the Knit Lit ladies read and discus classic romances like *Romeo and Juliet*, *Wuthering Heights*, and *Pride and Prejudice*, each member is confronted with her own perception about love.  Camille’s unexpected reunion with an old crush forces her to confront conflicting desires.  Newly widowed Esther finds her role in Sweetgum changing and is surprised by two unlikely friends.  Hannah isn’t sure she’s ready for the trials of first love.  Newcomer Maria finds her life turned upside-down by increasing family obligations and a handsome, arrogant lawyer, and Eugenie and Merry are both asked to make sacrifices for their husbands that challenge their principles.Even in a sleepy, southern town like Sweetgum, Tennesee, love isn’t easy.  The Knit Lit ladies learn they can find strength and guidance in the novels they read, the love of their family, their community–and especially in each other.**Beth Pattillo** learned to knit in the second grade.  She is the author of the book, *Heavens to Betsy*, the recipient of the Romance Writers of America Best Inspirational Romance Novel in 2006, and its sequel, *Earth to Betsy*.  Beth lives with her husband and children in Tennessee.</dc:description>
+        <dc:publisher>Waterbrook Pr</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781400073955</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance:Religous</dc:subject>
+        <meta content="Sweetgum Knit Lit" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-05T01:11:09.341000+00:00" name="calibre:timestamp"/>
+        <meta content="Sweetgum Ladies Knit for Love, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance:Religous&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

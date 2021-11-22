@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2201</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4207d1f-21ae-4f8b-a91f-f9e28798e173</dc:identifier>
+        <dc:title>The Capitol Game</dc:title>
+        <dc:creator opf:file-as="Haig, Brian" opf:role="aut">Brian Haig</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-12T12:46:19.342000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+*New York Times* bestselling author Brian Haig returns with a riveting new thriller about a man caught between the politics of big government and the corruption of big business.**The Capitol Game**It was the deal of the decade, if not the century.  A small, insignificant company on the edge of bankruptcy had discovered an alchemist's dream; a miraculous polymer, that when coated on any vehicle, was the equivalent of 30 inches of steel.  With bloody conflicts surging in Iraq and Afghanistan, the polymer promises to save thousands of lives and change the course of *both *wars.  Jack Wiley, a successful Wall Street banker, believes he has a found a dream come true when he mysteriously learns of this miraculous polymer. His plan: enlist the help of the Capitol Group, one of the country's largest and most powerful corporations in a quick, bloodless takeover of the small company that developed the polymer.  It seems like a partnership made in heaven...until the Pentagon's investigative service begins nosing around, and the deal turns into a nightmare. Now, Jack's back is up against the wall and he and the Capitol Group find themselves embroiled in the greatest scandal the government and corporate America have ever seen...</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780446195614</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Thriller</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-18T23:31:25.828000+00:00" name="calibre:timestamp"/>
+        <meta content="Capitol Game, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Thriller&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

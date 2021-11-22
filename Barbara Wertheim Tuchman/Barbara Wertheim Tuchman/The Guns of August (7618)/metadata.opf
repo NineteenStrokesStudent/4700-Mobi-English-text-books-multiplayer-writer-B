@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7618</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50bc9db9-1626-4056-aa55-0093eeea734e</dc:identifier>
+        <dc:title>The Guns of August</dc:title>
+        <dc:creator opf:file-as="Tuchman, Barbara Wertheim" opf:role="aut">Barbara Wertheim Tuchman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-03T17:48:41.844000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;“Fascinating . . . One of the finest works of history written . . . A splendid and glittering performance.”&lt;br /&gt;
+–_The New York Times&lt;br /&gt;
+_&lt;br /&gt;
+“MORE DRAMATIC THAN FICTION . . . A MAGNIFICENT NARRATIVE . . . elegantly phrased, skillfully paced and sustained . . . The product of painstaking and sophisticated research.”&lt;br /&gt;
+–_Chicago Tribune_&lt;em&gt;&lt;/em&gt;  
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;/em&gt;“A BRILLIANT PIECE OF MILITARY HISTORY which proves up to the hilt the force of Winston Churchill’s statement that the first month of World War I was ‘a drama never surpassed.’ A writer with an impeccable sense of telling detail, Mrs. Tuchman is able to evoke both the enormous pattern of the tragedy and the minutiae which make it human.”&lt;br /&gt;
+–_Newsweek_  
+&lt;/p&gt;
+&lt;p&gt;“[A] BEAUTIFULLY ORGANIZED, COMPELLING NARRATIVE.”&lt;br /&gt;
+–_San Francisco Chronicle&lt;em&gt;&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;&lt;/em&gt;_&lt;br /&gt;
+“AN EPIC NEVER FLAGGING IN SUSPENSE . . . It seemed hardly possible that anything new of significance could be said about the prelude to and the first month of World War I. But this is exactly what Mrs. Tuchman has succeeded in doing . . . by transforming the drama’s protagonists as well as its immense supporting cast, from half-legendary and half shadowy figures into full-dimensional, believable persons.”&lt;br /&gt;
+–_The Christian Science Monitor_  
+&lt;/p&gt;
+&lt;p&gt;“EXCELLENT . . . [_The Guns of August_] has a vitality that transcends its narrative virtues.”&lt;br /&gt;
+–_The Wall Street Journal_&lt;em&gt;&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;"More dramtatic than fiction...THE GUNS OF AUGUST is a magnificent narrative--beautifully organized, elegantly phrased, skillfully paced and sustained....The product of painstaking and sophisticated research."&lt;br /&gt;
+CHICAGO TRIBUNE&lt;br /&gt;
+Historian and Pulitzer Prize-winning author Barbara Tuchman has brought to life again the people and events that led up to Worl War I. With attention to fascinating detail, and an intense knowledge of her subject and its characters, Ms. Tuchman reveals, for the first time, just how the war started, why, and why it could have been stopped but wasn't. A classic historical survey of a time and a people we all need to know more about, THE GUNS OF AUGUST will not be forgotten.  
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345476098</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>History</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T17:34:54.775000+00:00" name="calibre:timestamp"/>
+        <meta content="Guns of August, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;History&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

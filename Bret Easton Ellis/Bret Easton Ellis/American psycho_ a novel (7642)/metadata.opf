@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7642</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d334a844-bec8-4acb-aa71-33973e7f2468</dc:identifier>
+        <dc:title>American psycho: a novel</dc:title>
+        <dc:creator opf:file-as="Ellis, Bret Easton" opf:role="aut">Bret Easton Ellis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-11-15T17:44:19.568000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Library Journal&lt;/h3&gt;
+&lt;p&gt;This review is based on the galley issued by Ellis's original publisher, Simon &amp;amp; Schuster, before it cancelled the book. The book is now going through the editing process at Vintage. There may be some changes in the final version. The indignant attacks on Ellis's third novel (see News, p. 17; Editorial, p. 6) will make it difficult for most readers to judge it objectively. Although the book contains horrifying scenes, they must be read in the context of the book as a whole; the horror does not lie in the novel itself, but in the society it reflects. In the first third of the book, Pat Bateman, a 26-year-old who works on Wall Street, describes his designer lifestyle in excruciating detail. This is a world in which the elegance of a business card evokes more emotional response than the murder of a child. Then suddenly, for no apparent reason, Bateman calmly and deliberately blinds and stabs a homeless man. From here, the body count builds, as he kills a male acquaintance and sadistically tortures and murders two prostitutes, an old girlfriend, and a child he passes in the zoo. The recital of the brutalization is made even more horrible by the first-person narrator's delivery: flat, matter-of-fact, as impersonal as a car parts catalog. The author has carefully constructed the work so that the reader has no way to understand this killer's motivations, making it even more frightening. If these acts cannot be explained, there is no hope of protection from such random, senseless crimes. This book is not pleasure reading, but neither is it pornography. It is a serious novel that comments on a society that has become inured to suffering. Previewed in Prepub Alert, LJ 9/15/90 and 12/90.&lt;br /&gt;
+&lt;em&gt;- Nora Rawlinson, "Library Journal"&lt;/em&gt;&lt;br /&gt;
+Copyright 1991 Reed Business Information, Inc. 
+&lt;/p&gt;
+
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;“Bret Easton Ellis is a very, very good writer [and] &lt;strong&gt;American Psycho&lt;/strong&gt; is a beautifully controlled, careful, important novel…. The novelist’s function is to keep a running tag on the progress of culture; and he’s done it brilliantly…. A seminal book.” —Fay Weldon, &lt;em&gt;The Washington Post&lt;/em&gt;   
+&lt;/p&gt;
+&lt;p&gt;“A masterful satire and a ferocious, hilarious, ambitious, inspiring piece of writing, which has large elements of Jane Austen at her vitriolic best. An important book.” —Katherine Dunn   
+&lt;/p&gt;
+&lt;p&gt;“A great novel. What Emerson said about genius, that it’s the return of one’s rejected thoughts with an alienated majesty, holds true for &lt;strong&gt;American Psycho&lt;/strong&gt;…. There is a fever to the life of this book that is, in my reading, unknown in American literature.” —Michael Tolkin   
+&lt;/p&gt;
+&lt;p&gt;“The first novel to come along in years that takes on deep and Dostoyevskian themes…. [Ellis] is showing older authors where the hands come to on the clock.” —Norman Mailer, &lt;em&gt;Vanity Fair&lt;/em&gt;
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780679735779</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T17:34:36.717000+00:00" name="calibre:timestamp"/>
+        <meta content="American psycho: a novel" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

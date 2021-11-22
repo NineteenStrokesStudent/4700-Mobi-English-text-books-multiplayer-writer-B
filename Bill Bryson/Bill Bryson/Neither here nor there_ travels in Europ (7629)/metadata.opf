@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7629</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9ffe6c3-fae1-44c7-9384-e12353ad38ba</dc:identifier>
+        <dc:title>Neither here nor there: travels in Europe</dc:title>
+        <dc:creator opf:file-as="Bryson, Bill" opf:role="aut">Bill Bryson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-04-06T07:16:44.032000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;After 20 years as a London-based reporter, American journalist Bryson ( The Mother Tongue ) set out to retrace a youthful European backpacking trip, from arctic Norway's northern lights to romantic Capri and the "collective delirium" of Istanbul. Descriptions of historic and artistic sights in the Continent's capitals are cursory; Bryson prefers lesser-known locales, whose peculiar flavor he skillfully conveys in anecdotes that don't scant the seamy side and often portray eccentric characters encountered during untoward adventures of the road. He enlivens the narrative with keen, sometimes acerbic observations of national quirks like the timed light switches in French hallways, but tends to strive too hard for comic effects, some in dubious taste. He also joins other travelers in deploring the growing hordes of peddlers who overrun major tourist meccas. &lt;br /&gt;
+Copyright 1992 Reed Business Information, Inc. 
+&lt;/p&gt;
+
+&lt;h3&gt;From Library Journal&lt;/h3&gt;
+&lt;p&gt;Born in Iowa, Bryson (A Walk in the Clouds) backpacked through Europe as a young man. While living in England some 20 years later, he revisited many of the same places, and here he jumps back and forth between old memories and new experiences. He begins with rather negative incidents and throughout spends a great deal of time on his woes, often due to hangovers, missed opportunities with young women, and difficulties with transportation and hotel personnel. Bryson is a rather talented, opinionated writer who obviously has spent a fair amount of time walking and traveling by bus and train in Europe. Since he is given to serious profanity at times and brushes upon topics such as sex with animals and prostitutes, this is definitely not family entertainment. His descriptive ability is considerable, and his commentary, while rambling, is generally interesting. His enunciation and inflection are good, but an affected British accent creeps in at times. It's like a self-indulgent memoir of which few will care and some will be offended. Only libraries willing to risk patron indignation at his profanity, some of his topics, and his repeated generalizations about nations and their people should consider.ACarolyn Alexander, Brigadoon Lib., Salinas, CA &lt;br /&gt;
+Copyright 1999 Reed Business Information, Inc. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780380713806</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Travel</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-11T07:16:18.709000+00:00" name="calibre:timestamp"/>
+        <meta content="Neither here nor there: travels in Europe" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Travel&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

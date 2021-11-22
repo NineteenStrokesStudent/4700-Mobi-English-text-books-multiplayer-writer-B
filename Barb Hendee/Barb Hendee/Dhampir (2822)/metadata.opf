@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2822</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52367fdb-63f3-453b-bebe-9f3c04514901</dc:identifier>
+        <dc:title>Dhampir</dc:title>
+        <dc:creator opf:file-as="Hendee, Barb &amp; Hendee, J. C." opf:role="aut">Barb Hendee</dc:creator>
+        <dc:creator opf:file-as="Hendee, Barb &amp; Hendee, J. C." opf:role="aut">J. C. Hendee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-23T23:08:16+00:00</dc:date>
+        <dc:description>SUMMARY:
+SHE HUNTS THE REALMS MOST DANGEROUS GAME. HER FEES ARE EXORBITANT. SHE'S WORTH EVERY COIN SHE RECEIVES. OR IS SHE? Magiere has earned a reputation as the most formidable vampire slayer in the land. Villagers far and wide welcome her with both awe and disdain, grateful to her for ridding their towns of the undead menace, but finding themselves made poorer for their salvation. Magiere has always known she's dealing with simple folk who only wish to have their superstitions silenced, and she's never seen anything wrong with exploiting them for profit. Now, tired of the game, Magiere and her partner, the half-elf Leesil, are ready to hang up their weapons and settle down in a place they can finally call home. But their new found peace will not last. For Magiere has come to the attention of a trio of powerful and dangerous vampires who recognize her true identity  even if she does not  and who fear the birthright that flows through her veins. And they will stop at nothing to keep Magiere from fulfilling her destiny.</dc:description>
+        <dc:publisher>Time Warner Books Uk</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781841493640</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy:Vampires</dc:subject>
+        <meta content="Saga of the Noble Dead" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-02-23T06:02:25.141000+00:00" name="calibre:timestamp"/>
+        <meta content="Dhampir" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy:Vampires&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

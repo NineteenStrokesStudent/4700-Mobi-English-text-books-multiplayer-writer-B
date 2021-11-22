@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2835</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11222059-8265-4ab9-a308-cf605ac3ad9b</dc:identifier>
+        <dc:title>Once Bitten, Twice Dead</dc:title>
+        <dc:creator opf:file-as="D’Arc, Bianca &amp; D’Arc, Bianca" opf:role="aut">Bianca D'Arc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-23T05:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Thrills, chills, and a smoldering sexy hero combine to unforgettable effect in Bianca D'Arc's irresistible new novel of paranormal romance. . .When police officer Sarah Petit investigates a disturbance in an abandoned building, she expects to find a few underage drinkers. Instead, she's attacked by creatures straight out of a horror movie. Waking a week later in a hospital, Sarah is visited by Special Forces soldier Captain Xavier Beauvoir. The zombies who attacked Sarah are the result of military research gone terrifyingly wrong, and Sarah's immunity to the virus makes her the perfect person to help Xavier eradicate them. But his smooth Cajun accent, whiskey-colored eyes, and dizzying kiss are risky to her in a very different way. Sarah attracts danger like a magnet--and the smart, fearless cop attracts Xavier too, instilling a bone-deep need that's undermining his steady façade. Enlisting her aid is a necessary gamble, but vicious undead creatures are not the only enemy they face. And the only way to keep each other safe is to trust in an instant connection that could be their greatest strength--or the perfect way to destroy them both. . .</dc:description>
+        <dc:publisher>Brava</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780758247292</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance:Paranormal</dc:subject>
+        <meta content="Guardians of the Dark [Bianca D'Arc]" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-03-19T16:28:52.984000+00:00" name="calibre:timestamp"/>
+        <meta content="Once Bitten, Twice Dead" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance:Paranormal&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

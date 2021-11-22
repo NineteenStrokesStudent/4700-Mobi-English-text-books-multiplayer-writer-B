@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6964</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bff47471-1c4b-4be0-8f4d-53d2ca88aa26</dc:identifier>
+        <dc:title>Bardisms</dc:title>
+        <dc:creator opf:file-as="Edelstein, Barry" opf:role="aut">Barry Edelstein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+William Shakespeare's plays and poetry make up a vast repository of wit and wisdom, of insight and passion. For the momentous events in our lives—the ones that call for some memorable remarks or a great toast—the Bard is the perfect speechwriter. On any occasion, chances are there's a Shakespeare quote that's fitting. The challenge, of course, is finding the right one.  
+
+ Enter Barry Edelstein. One of the top Shakespeare directors and teachers in the country, he can help you pick the perfect "Bardism," pronounce it with style, and craft an elegant speech, talk, or missive around it.  
+
+ *Bardisms* provides the best of Shakespeare's wisdom, with passages that mark the special times as well as the everyday:   
+
+ A wedding vow: "To you I give myself, for I am yours." —*As You Like It*  
+
+ For your darling little girl: "You gods, look down / And from your sacred vials pour your graces / Upon my daughter's head." —*The Winter's Tale*  
+
+ Birthday greeting: "To me, fair friend, you can never be old;" —*Sonnet 104*  
+
+ Time to party: "Let's mock the midnight bell." —*Antony and Cleopatra*  
+
+ On reputation: "Good name in man and woman, dear my lord, / Is the immediate jewel of their souls." —*Othello*   
+
+ Edelstein takes the reader step by step through each Shakespeare quote, providing eminently helpful tips for speaking the lines like a pro. The book is organized chronologically, covering all stages of life—from childbirth to commencement, marriage, the workplace, old age, and all the significant events in between.  
+
+ *Bardisms* celebrates Shakespeare's genius with a wealth of fascinating tidbits about his life and times, his work and his art. Edelstein explores what it is about Shakespeare's writing that makes it so fitting for important moments: his perfect balance of wit and sentimentality; his boundless imagination; his ability to express emotion at its purest; and his talent for communicating a complex thought in vivid and energetic terms.  
+
+ Most of all, *Bardisms* makes Shakespeare infinitely more accessible, lending a freshness and vitality to his writing and fostering a new appreciation for its usefulness in our lives. For anyone struggling to come up with the perfect words, in any situation, *Bardisms* is the ultimate resource.</dc:description>
+        <dc:publisher>Harper</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061493515</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Reference</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-02T09:34:39.205000+00:00" name="calibre:timestamp"/>
+        <meta content="Bardisms" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Reference&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

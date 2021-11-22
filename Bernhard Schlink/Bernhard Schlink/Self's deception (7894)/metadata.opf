@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7894</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcc5a690-60da-44da-a19b-4d4fbfaa286a</dc:identifier>
+        <dc:title>Self's deception</dc:title>
+        <dc:creator opf:file-as="Schlink, Bernhard &amp; Constantine, Peter" opf:role="aut">Bernhard Schlink</dc:creator>
+        <dc:creator opf:file-as="Schlink, Bernhard &amp; Constantine, Peter" opf:role="aut">Peter Constantine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-12T10:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;In German author Schlink's meandering second crime novel available in English to feature aging PI Gerhard Self (after &lt;em&gt;Self's&lt;/em&gt;&lt;em&gt;Punishment&lt;/em&gt;), a man named Salger hires Self to locate his missing daughter, Leonore. With little help from the father, Self tracks the missing girl to an insane asylum outside Heidelberg, where he's informed by a doctor that Leo has recently died there in an accident. Self quickly learns, among other details, that the death report is untrue, Leo's father is not really her father and that the case is connected to a top-secret government investigation. Self can be completely off the wall one minute—he lies outrageously to anyone who might have information and breaks-and-enters without compunction—and the next he's as comfortable as an old shoe, having a glass of Riesling and hanging out with his cat, Turbo. The eccentric detective is the big draw, with the less than action-packed investigation coming in a distant second. &lt;em&gt;(June)&lt;/em&gt; &lt;br /&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“A sophisticated, chilling and superbly written thriller.” &lt;br /&gt;—Michael Dibdin, author of &lt;em&gt;Back to Bologna&lt;/em&gt;  &lt;/p&gt;&lt;p&gt;“A delightfully unique protagonist, a marvelous complex mystery.”&lt;br /&gt;—Mike Lawson, bestselling author of &lt;em&gt;The Second Perimeter &lt;/em&gt;   &lt;/p&gt;&lt;p&gt;“Immensely pleasurable and deeply intriguing. Schlink has crafted a novel rich with the comforts of insight and humanity.” &lt;br /&gt;—Dan Fesperman, author of &lt;em&gt;The Prisoner of Guant&lt;/em&gt;á_namo _  &lt;/p&gt;&lt;p&gt;“From this highly gifted writer another delightfully winding crime story, told with bleak and bitter irony.” &lt;br /&gt;—Håkan Nesser, author of &lt;em&gt;The Return&lt;/em&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780375709081</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Gerhard Self" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-07T04:05:24.448000+00:00" name="calibre:timestamp"/>
+        <meta content="Self's deception" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">636</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15509317-661e-4e8c-bd13-5bb3814c6075</dc:identifier>
+        <dc:title>Fablehaven: Keys to the Demon Prison</dc:title>
+        <dc:creator opf:file-as="Mull, Brandon &amp; Dorman, Brandon" opf:role="aut">Brandon Mull</dc:creator>
+        <dc:creator opf:file-as="Mull, Brandon &amp; Dorman, Brandon" opf:role="aut">Brandon Dorman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-15T07:00:00+00:00</dc:date>
+        <dc:description>(Fablehaven Series, Book 5) 
+EDITORIAL REVIEW:
+
+Since ancient times, the great demon prison Zzyzx has  protected the world from the most dangerous servants of  darkness, including Gorgrog, the Demon King. After centuries  of plotting, the Sphinx is on the verge of recovering the five  artifacts necessary to open the legendary prison.  Facing the potential of a world-ending calamity, all friends of  light must unite in a final effort to thwart the Sphinx s designs  and find a safe home for the five artifacts. To this end, Kendra,  Seth, and the Knights of the Dawn will venture far beyond the  walls of Fablehaven to strange and exotic magical preserves  across the globe, where the end of every quest becomes the  beginning of another. In this explosive series finale, allegiances  will be confirmed and secrets revealed as the forces of light  and darkness collide in a desperate struggle to control the  keys to the demon prison.</dc:description>
+        <dc:publisher>Deseret Book Co</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781606412381</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Young Adult</dc:subject>
+        <meta content="Fablehaven" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-16T14:55:34.708034+00:00" name="calibre:timestamp"/>
+        <meta content="Fablehaven: Keys to the Demon Prison" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Young Adult&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 4, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2317</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75e44249-66b0-4ad9-b334-b9546ce6fd03</dc:identifier>
+        <dc:title>Desert Places: a Novel of Terror</dc:title>
+        <dc:creator opf:file-as="Crouch, Blake" opf:role="aut">Blake Crouch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-23T05:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**Greetings. There is a body buried on your property, covered in your blood. The unfortunate young lady's name is Rita Jones. In her jeans pocket you'll find a slip of paper with a phone number on it. Call that number. If I have not heard from you by 8:00 P.M., the police will receive an anonymous call. I'll tell them where Rita Jones is buried on your property, how you killed her, and where the murder weapon can be found in your house. (I do believe a paring knife is missing from your kitchen.) I strongly advise against going to the police, as I am always watching you.**Dear Reader: Please keep the light on tonight. What happens next will scare you. Guaranteed.*In one of the most chilling debuts of the year, Blake Crouch tells a tale that shatters the boundaries of fear. Caution: You've Been Warned--Read at Your Own Risk!*Andrew Z. Thomas is a successful writer of suspense thrillers, living the dream at his lake house in the piedmont of North Carolina. One afternoon in late spring, he receives a bizarre letter that eventually threatens his career, his sanity, and the lives of everyone he loves. A murderer is designing his future, and for the life of him, Andrew can't get away.An edge-of-your-seat thriller, *Desert Places* introduces the American public to a new suspense writer who will be scaring us all for years to come.</dc:description>
+        <dc:publisher>New York : St. Martin's Minotaur, 2004.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312286446</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="Andrew Thomas" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-05T23:39:32.299661+00:00" name="calibre:timestamp"/>
+        <meta content="Desert Places: a Novel of Terror" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

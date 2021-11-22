@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6424</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07dccdeb-3259-44ce-9678-e9f1a48b2254</dc:identifier>
+        <dc:title>Bad Girl</dc:title>
+        <dc:creator opf:file-as="Crouch, Blake" opf:role="aut">Blake Crouch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-04T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Before the events of Blake Crouch’s horror novels DESERT PLACES and LOCKED DOORS...
+
+Before the events of Jack Kilborn's and Blake Crouch's #1 Amazon Kindle bestseller SERIAL...
+
+The year is 1995, and a young girl with psychopathic tendencies named Lucy (the sweetheart from SERIAL) has run away from home to a mystery convention to see her favorite author in the world: Andrew Z. Thomas. 
+
+But Lucy has problems, and not just the psychopathic kind…to start with, the hotel won’t rent a room to a 15-year-old girl. So she does a bad, bad thing, which only gets worse when a couple of horrifying killers, Orson Thomas, and his protégé, Luther Kite, catch her trying to cover up a nasty mess.
+
+BAD GIRL is a thriller novella that brings all of Crouch’s most terrifying villains to the same hotel.
+
+A prequel to SERIAL, which has been downloaded more than 200,000 times, BAD GIRL is not for the faint of heart. Let the reader beware.
+
+BAD GIRL also contains a bonus interview with Blake, plus excerpts from all four of his novels. 
+
+*Note: BAD GIRL is fully contained in SERIAL UNCUT. BAD GIRL + TRUCK STOP + SERIAL = SERIAL UNCUT.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-26T07:50:00.403000+00:00" name="calibre:timestamp"/>
+        <meta content="Bad Girl" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

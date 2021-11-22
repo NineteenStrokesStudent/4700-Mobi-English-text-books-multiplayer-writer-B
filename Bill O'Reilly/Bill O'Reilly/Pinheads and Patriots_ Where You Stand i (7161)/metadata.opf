@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7161</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89222cea-0de7-4cac-b0b5-71988d207159</dc:identifier>
+        <dc:title>Pinheads and Patriots: Where You Stand in the Age of Obama</dc:title>
+        <dc:creator opf:file-as="O'Reilly, Bill" opf:role="aut">Bill O'Reilly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-13T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+When Bill O'Reilly interviewed then-Senator Barack Obama during the 2008 presidential elections, the two had a lively debate about the nation's future.   Since that time, America has changed rapidly—some would even say seismically. And many believe these shifts are doing more than just rocking the political and social climate; they're rocking the American core.   What are these changes? Who, in addition to President Obama, have been the biggest forces behind them? What exactly do they mean for you, the everyday American citizen? How are they affecting your money, health, safety, freedom, and standing in this nation? Which are Pinheaded moves and which are truly Patriotic? In his latest spirited book, O'Reilly prompts further debate with the President and the American people on the current state of the union.   After five consecutive, no-nonsense, tell-it-like-it-is megabestsellers, you can count on Bill to offer blunt and constructive political commentary. And as he did in his popular memoir, he offers some introspection too, looking back at his own actions and those of past Pinheads and Patriots who have inspired a code of conduct for such taxing times.   As always, O'Reilly is fair, balanced, and uncompromisingly tough when guarding the American way. Only Pinheads would fail to fight for what they love most about this country or to embrace some measure of change to make it better. The rest of us Patriots will read this book to discover the difference between the two.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061950711</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Politics</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-03T02:48:45.985000+00:00" name="calibre:timestamp"/>
+        <meta content="Pinheads and Patriots: Where You Stand in the Age of Obama" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Politics&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

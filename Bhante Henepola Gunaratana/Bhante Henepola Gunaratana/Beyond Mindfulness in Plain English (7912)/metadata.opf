@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7912</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b498c15f-2a9d-4b1d-9d48-189e913e486b</dc:identifier>
+        <dc:title>Beyond Mindfulness in Plain English</dc:title>
+        <dc:creator opf:file-as="Gunaratana, Bhante Henepola" opf:role="aut">Bhante Henepola Gunaratana</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-31T10:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;Every meditation tradition explains that there are two aspects to any effective meditation practice: insight and concentration. In &lt;em&gt;Mindfulness in Plain English,&lt;/em&gt; author Bhante Henepola Gunaratana, a monk from Sri Lanka and venerated teacher of Buddhism, offered basic instruction on the meaning of insight (or vipassana) meditation through concepts that could be applied to any tradition. In &lt;em&gt;Beyond Mindfulness in Plain English,&lt;/em&gt; he presents the levels of concentration with the same simplicity and humor that made the previous book so successful. The focus here is on the Jhanas, those meditative states of profound stillness and concentration in which the mind becomes fully immersed and absorbed in the chosen object of attention. Using the Jhanas to guide readers along the path to joy, happiness, equanimity, and one-pointedness, the author provides all of the instruction necessary to utilize meditation as a tool for building a more fulfilling life.&lt;/p&gt;</dc:description>
+        <dc:publisher>Wisdom Publications</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780861715299</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Religon</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-10T03:57:32.024000+00:00" name="calibre:timestamp"/>
+        <meta content="Beyond Mindfulness in Plain English" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Religon&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2844</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">774a5c00-9291-44b2-b4ff-899446630731</dc:identifier>
+        <dc:title>The Ark</dc:title>
+        <dc:creator opf:file-as="Morrison, Boyd" opf:role="aut">Boyd Morrison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-17T05:50:15+00:00</dc:date>
+        <dc:description>SUMMARY:
+A modern-day international thriller hailed by James Rollins as "one of the best debut I've read this year. . . here is a novel that will have you holding your breath until the last page is turned." When brilliant archaeologist Dilara Kenner is contacted by Sam Watson, an old family friend who says that he has crucial information about her missing father, Dilara abandons her Peruvian dig and rushes to Los Angeles to meet him. But at the airport, Sam speaks instead of Noah's Ark--the artifact her father had long been searching for--and the possible death of billions. Before Sam can explain, he collapses. With his dying breath, he urges Dilara to find Tyler Locke--a man she's never heard of. Two days later Dilara manages to track down former combat engineer Tyler Locke on an oil rig off Newfoundland. Her helicopter transport goes down well short of the oil rig's landing pad and Dilara and those aboard nearly drown. No sooner is Dilara safely on the rig than she convinces Tyler the crash was no accident. Tyler agrees to help her uncover the secret behind Noah's Ark and, more important, her father's disappearance. As the picture begins to come into focus, they realize they have just seven days to find the Ark before its secret is used to wipe out civilization once again. With a chilling premise and a blistering pace, Boyd Morrison combines all the best elements of a blockbuster thriller with an intelligent and fascinating exploration of one of the Old Testament's great mysteries.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-02-23T04:31:52.407000+00:00" name="calibre:timestamp"/>
+        <meta content="Ark, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
